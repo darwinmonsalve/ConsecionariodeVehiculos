@@ -1,4 +1,4 @@
-# concecionario de vehiculos
+# consecionario de vehiculos
 ## programacion 1: orientada a objetos basica
 ## s25 evidencia de aprendizaje 1 
 ### darwin monsalve noreña 
