@@ -21,6 +21,6 @@ d) Nombre
 e) Documento del comprador.
 
 ## Concluciones
-#### Este proyecto no solo me ayudo a profundizar en java y la Poo (programacion orientada a objetos), sino que tambien me ayudo a reflexionar sobre la importacia de tener un codigo bien estructurado y organizado, para que este sea eficiente, Desde la creacion de clases hasta la gestion de datos con hashmap, cada parte de este proyecto fue un desafio para mi y mis compañeros de equipo con los que realize la actividad, pero fue una grande oportunidad de aprendizaje.
+#### Este proyecto no solo me ayudo a profundizar en java y la Poo (programacion orientada a objetos), sino que tambien me ayudo a reflexionar sobre la importacia de tener un codigo bien estructurado y organizado, para que este sea eficiente, Desde la creacion de clases hasta la gestion de datos con hashmap, cada parte de este proyecto fue un desafio para mi y mis compañeros de equipo con los que realize la actividad, pero sobre todo eso fue una grande oportunidad de aprendizaje.
 
 
