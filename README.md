@@ -8,7 +8,7 @@
 ### tecnologia en desarrollo de software 
 ### Institucion universitaria digital de antioquia (iudigital) 
 ### 26 de febrero de 2025
-### actividad de aprendizaje 1
+# actividad de aprendizaje 1
 ## introduccion: 
 Desarrolla un proyecto para un concesionario de vehículos, teniendo en cuenta las siguientes características:
  Los vehículos se clasifican en: autos, camionetas y motocicletas.
